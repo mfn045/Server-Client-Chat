@@ -1,1 +1,1 @@
-A terminal based chat that supports multiple clients connecting to one server. Dependencies are ws2_32.dll (Winsock 2 library).
+An experimental terminal based server-client chat implemented using C++ WSA library. This application supports multiple clients connecting to one server. Dependencies are ws2_32.dll (Winsock 2 library).
